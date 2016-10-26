@@ -1,8 +1,8 @@
 <html>
 <body>
-<h1>Mon application Web en Java</h1>
+<h1>Ma page web simplon</h1>
 
-Ceci est une page statique.
+Création numéro 1.
 
 </body>
 </html>
